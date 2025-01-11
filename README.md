@@ -23,9 +23,10 @@ CREATE TABLE todos(
 En la imagen se puede observar donde está creado la tabla, la estructura que es igual al script proporcionado y el dato que tiene. 
 ![Postgres](img/1.png)
 
-### Correr el proyecto
+### Correr el proyecto
 ```
 uvicorn main:app --reload
 ```
-### Creditos
+
+### Creditos
 [https://www.youtube.com/watch?v=wcbxMRgu9bE](https://www.youtube.com/watch?v=wcbxMRgu9bE)
