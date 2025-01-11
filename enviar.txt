@@ -1,0 +1,32 @@
+# Archivos y carpetas del entorno virtual
+**/.DS_Store
+
+venv/
+.env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Configuración de IDEs y editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Configuración de paquetes y dependencias
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Archivos de configuración sensibles
+.env
